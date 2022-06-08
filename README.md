@@ -1,5 +1,5 @@
 # Movie Tracker
-This app allows users to browse the latest movies in theaters. The content is automatically updated from [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+This app allows users to browse the latest movies in theaters. The content is automatically updated from [The Movie Database API](https://developers.themoviedb.org/3/).
 
 Users can see a list of the most popular movies in theaters. Users can tap on a movie to view a trailer and description.
 
